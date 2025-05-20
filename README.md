@@ -1,5 +1,10 @@
 # -4F_Alegado_Portfolio
 
+Welcome to my Front-End Portfolio, a single-page responsive website designed to showcase my background, projects, and contact information. 
+Built with modern HTML, CSS, and JavaScript, this portfolio highlights both design sensibility and interactive web development skills.
+This site includes multiple sections Profile, Education, Trainings/Seminars, Projects, Job Experience, and Contact and features a smooth, 
+intuitive user experience optimized for all screen sizes.
+
 # Navigation Link Hover Underline: 
   - Smooth colorful underline appears on hover to indicate active navigation links.
 
